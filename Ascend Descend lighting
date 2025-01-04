@@ -1,0 +1,29 @@
+#include <avr/io.h>
+#include <util/delay.h>
+#define F_CPU 16000000
+#define WAIT 50
+
+/*
+ * Created: 2025-01-03 15:37:18
+ * Author : Jovan Ssettuba
+ */ 
+
+/*Implemented using 8 LEDs on Arduino*/
+
+int main(void){
+    DDRD = 0B11111111;
+    while(1){
+        int i = 0;
+        while (i < 8){
+            PORTD |= 1<<i;
+            _delay_ms(WAIT);
+            i++;
+        }
+
+        while (i >= 0){
+            PORTD &= ~(1<<i);
+            _delay_ms(WAIT);
+            i--;
+        }
+    }
+}
