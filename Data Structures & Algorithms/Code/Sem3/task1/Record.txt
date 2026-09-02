@@ -1,0 +1,112 @@
+================== Algorithm 1 ==================
+
+Input: 10: 0.000004
+Insert: : 5e-07
+Delete: : 0.0017526
+
+Input: 100: 0.000034
+Insert: : 1.5e-06
+Delete: : 0.001127
+
+Input: 1000: 0.000048
+Insert: : 9e-07
+Delete: : 0.0031109
+
+Input: 10000: 0.000418
+Insert: : 2.5e-06
+Delete: : 0.0015768
+
+Input: 100000: 0.001276
+Insert: : 7e-07
+Delete: : 0.0007883
+
+Input: 250000: 0.003405
+Insert: : 6e-07
+Delete: : 0.0006372
+
+Input: 500000: 0.006173
+Insert: : 4e-07
+Delete: : 0.0004354
+
+Input: 750000: 0.009257
+Insert: : 1.9e-06
+Delete: : 0.0013117
+
+Input: 1000000: 0.011982
+Insert: : 6e-07
+Delete: : 0.0003655
+
+================== Algorithm 2 ==================
+
+Input 10: : 1.6e-06
+Insert: : 7e-07
+Delete: : 0.0004004
+
+Input 100: : 8e-06
+Insert: : 1.1e-06
+Delete: : 0.0010976
+
+Input 1000: : 9.16e-05
+Insert: : 1.2e-06
+Delete: : 0.001151
+
+Input 10000: : 0.0008046
+Insert: : 2e-06
+Delete: : 0.0014248
+
+Input 100000: : 0.0065009
+Insert: : 2.4e-06
+Delete: : 0.0008994
+
+Input 250000: : 0.0074265
+Insert: : 7e-07
+Delete: : 0.0004268
+
+Input 500000: : 0.0128091
+Insert: : 8e-07
+Delete: : 0.0004184
+
+Input 750000: : 0.019773
+Insert: : 7e-07
+Delete: : 0.0002063
+
+Input 1000000: : 0.0272754
+Insert: : 7e-07
+Delete: : 0.0002665
+================== Algorithm 1 ==================
+
+Input: 10: 0.000007
+Insert: : 1.9e-06
+Delete: : 0.005889
+
+Input: 100: 0.000042
+Insert: : 1.6e-06
+Delete: : 0.0021481
+
+Input: 1000: 0.000028
+Insert: : 1.7e-06
+Delete: : 0.000604
+
+Input: 10000: 0.000423
+Insert: : 1.6e-06
+Delete: : 0.0005363
+
+Input: 100000: 0.006919
+Insert: : 2e-06
+Delete: : 0.0006728
+
+Input: 250000: 0.005232
+Insert: : 7e-07
+Delete: : 0.0015817
+
+Input: 500000: 0.009607
+Insert: : 1.4e-06
+Delete: : 0.0006553
+
+Input: 750000: 0.026005
+Insert: : 3.2e-06
+Delete: : 0.0008999
+
+Input: 1000000: 0.014027
+Insert: : 5e-07
+Delete: : 0.0003859
