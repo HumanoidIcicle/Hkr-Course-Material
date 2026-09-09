@@ -1,0 +1,40 @@
+
+Less data -> more battery life -> better energy consumption.
+
+zigbee node - IMPORTANT, know good
+
+===================================================
+
+RSSI: Received Signal Strength Indicator
+
+Wireless sensor networks -> think of energy efficiency, nodes are resource constrained.
+Scalability: Can deploy thousand of nodes, low-cost
+
+?? Energy Neutral Organism
+?? Energy havesting mechanism
+?? routing protocols in wsn
+
+!?!?! FUTURE PROSPECTS: tinyMl, edge AI
+=====================================================
+
+WSN System Archtecture
+Harware and sofware
+
+    - Internal sturcture of node
+    - Controller module
+    -memory
+    - comm module
+    - sensing module
+    - Power supply 
+
+=========================================================
+
+Calculation for gain in exam
+================================================
+Energy aware routing networks
+
+
+
+
+
+
