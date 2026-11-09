@@ -1,0 +1,11 @@
+(gdb) break *main+59 This sets a breakpoint at the instruction immediately after the one in question. This guarantees that the instruction in question has actually been executed.
+
+(gdb) run This lets the program run until it tries to execute the instruction at our breakpoint.
+
+(gdb) info registers eax This prints out our answer in hexadecimal and decimal.
+
+x/4xb $rbp-0x4
+
+$ chmod +x func_name: adds executable permission to a function in binaries
+
+An easy way to precisely generate a specific number of bytes is this $ python3 -c "import sys; sys.stdout.buffer.write('a'*36)". This will become more important later.
