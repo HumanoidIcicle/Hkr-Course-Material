@@ -1,0 +1,1 @@
+C:\Users\JOSS0001\OneDrive - HÃ¶gskolan Kristianstad\Cyberpunk\Crypto Mines\Lab2\data.txtSUµøßu»h—CwádVEïËcVÝ¤;ñÞmhÑójCgÌj¯¾2‚Í#à×âg	HÛ]V¿9¤'Odó™÷l¿`€ÂN[ñVóœÁ“¼ëû	õ&>„n 'B¡Ñ, }#[Ó:fëÈ6çßôÇ‰œÇ®À-ØƒD¡ïQî¯KNÚa]ÿaõÂåKiñË+x”›c/›\^ÊvhâÐŽô]§K¬›’ã®ê¶X<ð¥QrçŽW–¤ˆÛr„	uŒ0æ’ÔZÛ 6‰åÛYÊ”ÜäÎ¤ÕÄ—qÂ7F"$FçØ¾s8h3•âËeÆ‹l+yïlühûc—úó†7ÎÏ.á
